@@ -1,0 +1,66 @@
+5# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2024-07-03 16:17:40
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 45
+# TOTAL: 51
+DOMAIN,emby.enjoyit.eu.org,Emby
+DOMAIN,emby.lcloud.wiki,Emby
+DOMAIN,notnetflix.cos.cat,Emby
+DOMAIN-KEYWORD,emby.wtf,Emby
+DOMAIN-KEYWORD,jmsooo,Emby
+DOMAIN-KEYWORD,odysseyplus,Emby
+DOMAIN-SUFFIX,123456.al,Emby
+DOMAIN-SUFFIX,285286.xyz,Emby
+DOMAIN-SUFFIX,agahk1.jmsooo.com,Emby
+DOMAIN-SUFFIX,agajp1.jmsooo.com,Emby
+DOMAIN-SUFFIX,agasg1.jmsooo.com,Emby
+DOMAIN-SUFFIX,aws.jmsooo.com,Emby
+DOMAIN-SUFFIX,cf1.jmsooo.com,Emby
+DOMAIN-SUFFIX,cristiamo.xyz,Emby
+DOMAIN-SUFFIX,emby.cjpc.cc,Emby
+DOMAIN-SUFFIX,emby.cjpc.tv,Emby
+DOMAIN-SUFFIX,emby.cjpc.xyz,Emby
+DOMAIN-SUFFIX,emby.cristiamo.top,Emby
+DOMAIN-SUFFIX,emby.flowercloud.yt,Emby
+DOMAIN-SUFFIX,emby.immtel.com,Emby
+DOMAIN-SUFFIX,emby.maying.club,Emby
+DOMAIN-SUFFIX,emby.mcwy.me,Emby
+DOMAIN-SUFFIX,emby.mdss.cloud,Emby
+DOMAIN-SUFFIX,emby.neko.edu.rs,Emby
+DOMAIN-SUFFIX,emby.nexitally.com,Emby
+DOMAIN-SUFFIX,emby.nyancat.net,Emby
+DOMAIN-SUFFIX,emby.ok.edu.hk,Emby
+DOMAIN-SUFFIX,emby.paoche.ooo,Emby
+DOMAIN-SUFFIX,emby.prprcloud.com,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,emby.xeton.dev,Emby
+DOMAIN-SUFFIX,emby.ytoo.li,Emby
+DOMAIN-SUFFIX,embymv.tk,Emby
+DOMAIN-SUFFIX,embyplus.org,Emby
+DOMAIN-SUFFIX,embyserver.ga,Emby
+DOMAIN-SUFFIX,hinet.jmsooo.com,Emby
+DOMAIN-SUFFIX,imetyou.top,Emby
+DOMAIN-SUFFIX,jellyfin.asia,Emby
+DOMAIN-SUFFIX,jellyfin.xeton.dev,Emby
+DOMAIN-SUFFIX,line.emby.men,Emby
+DOMAIN-SUFFIX,mickeycloud.com,Emby
+DOMAIN-SUFFIX,movie.xeton.dev,Emby
+DOMAIN-SUFFIX,ntt1.jmsooo.com,Emby
+DOMAIN-SUFFIX,ohhhh.org,Emby
+DOMAIN-SUFFIX,peachmv.me,Emby
+DOMAIN-SUFFIX,pilipiliultra.com,Emby
+DOMAIN-SUFFIX,plusmedia.site,Emby
+DOMAIN-SUFFIX,poloemby.xyz,Emby
+DOMAIN-SUFFIX,pornemby.club,Emby
+DOMAIN-SUFFIX,servers.xeton.dev,Emby
+DOMAIN-SUFFIX,xmsl.org,Emby
+DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk,Emby
+DOMAIN-SUFFIX,https://emby-mica-yxvm-hk-v4.mius.uk,Emby
+DOMAIN-SUFFIX,emby.bangumi.ca,Emby
+DOMAIN-SUFFIX,emby.aca.best,Emby
+DOMAIN-SUFFIX,tanhuatv.site,Emby
+DOMAIN-SUFFIX,emby.awatv.de,Emby
+DOMAIN-SUFFIX,aca.misakaf.org,Emby
